@@ -1,3 +1,13 @@
+# Organizador de Lista em Python
+
+Codigo para um organizador de listas em Python
+
+Fiz esse código para a empresa em que estagiei, o usuário deve digitar duas listas que recebe do cliente no programa.
+O programa então lê a lista sem a formatação do excel, remove as entradas duplicadas, separa em categorias pre-determinadas pela empresa e então printa a lista em um excel específico da empresa.
+
+Esse programa ajudou a equipe dos estagiários a realizar o processo pelo menos 30 minutos mais rápido.
+
+English:
 # listOrganizerPython
 Code for organizing a list of downloads at work
 
