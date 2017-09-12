@@ -2,7 +2,7 @@
 
 Codigo para um organizador de listas em Python
 
-Fiz esse código para a empresa em que estagiei, o usuário deve digitar duas listas que recebe do excel no campo de texto do programa. O programa então lê a lista sem a formatação do excel, remove as entradas duplicadas, separa em categorias pré determinadas pela empresa e então imprime a lista em uma nova planilha com formatação específica da empresa.
+Fiz esse código em python para a empresa em que estagiei, o usuário deve digitar duas listas que recebe do excel no campo de texto do programa. O programa então lê a lista sem a formatação do excel, remove as entradas duplicadas, separa em categorias pré determinadas pela empresa e então imprime a lista em uma nova planilha com formatação específica da empresa.
 
 Esse programa ajudou a equipe dos estagiários a realizar o processo pelo menos 30 minutos mais rápido.
 
